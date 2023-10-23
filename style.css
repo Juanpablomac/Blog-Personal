@@ -1,0 +1,16 @@
+.nava-color{
+    background: #E84E2B;
+}
+.navega a{
+    background-color: #EC6F4B;
+}
+.navega a:hover {
+    background-color: red;
+  }
+  footer{
+    background: #D9331D;
+    min-height: 80px;
+}
+footer p{
+    color: #f3f3f3;
+}
